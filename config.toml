@@ -1,3 +1,14 @@
 baseURL = "http://envirosoftwaresolutions.com/"
 languageCode = "en-us"
 title = "Enviro Software Solutions, LLC."
+theme = "hyde"
+[params]
+  description = "Software engineering dedicated to combating climate change."
+  #themeColor = "theme-base-09"
+  #layoutReverse = true
+
+[Menus]
+main = [
+  {Name = "Energy Dashboard", URL = "https://github.com/username/"},
+  {Name = "LinkedIn", URL = "https://www.linkedin.com/in/username/"}
+]
