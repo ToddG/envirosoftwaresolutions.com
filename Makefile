@@ -22,7 +22,7 @@ help:
 .PHONY: pub
 pub:
 	rm -rf ./public
-	hugo && rsync -avz -og --chown=toddg:www-data public/ root@zwrob:/var/www/envirosoftwaresolutions.com --delete 
+	hugo && rsync -avz -og --chown=toddg:www-data public/ toddg@zwrob:/var/www/envirosoftwaresolutions.com --delete 
 
 .PHONY: server
 server: serve

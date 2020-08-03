@@ -11,6 +11,11 @@ data. The Energy Dashboard transforms energy sector data from custom formats
 into normalized Sqlite3 databases, with the goal of enabling data science and
 research at a regional scale. 
 
+The best way to get started is to tackle a tutorial:
+* [Energy Dashboard Tutorials](https://github.com/energy-analytics-project/energy-dashboard-tutorials/)
+
+After this, feel free to deep dive into project itself:
+
 * [What is the Energy Dashboard?](http://zwrob.com/posts/eap01/)
 * [Why do we need an Energy Dashboard?](https://github.com/energy-analytics-project/energy-dashboard/blob/master/docs/background.md)
 * [How can I Get Started?](https://github.com/energy-analytics-project/energy-dashboard/blob/master/docs/howto.md)
